@@ -45,7 +45,7 @@ GEM
     mysql (2.9.1)
     mysql (2.9.1-x86-mingw32)
     polyglot (0.3.4)
-    rack (1.5.2)
+    rack (1.5.5)
     rack-test (0.6.2)
       rack (>= 1.0)
     rails (4.0.2)
